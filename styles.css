@@ -28,7 +28,7 @@ figure {
     min-width: auto;
 }
 img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     border-radius: 10px;
     display: block;
